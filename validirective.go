@@ -9,7 +9,7 @@ import (
 	"golang.org/x/tools/go/ast/inspector"
 )
 
-const doc = "validirective is ..."
+const doc = "validirective  detects directives that have been commented out"
 
 // Analyzer is ...
 var Analyzer = &analysis.Analyzer{
