@@ -1,4 +1,4 @@
-# validirective
+# validirective [![Go Reference](https://pkg.go.dev/badge/github.com/moromin/validirective.svg)](https://pkg.go.dev/github.com/moromin/validirective)
 `validirective` detects directives that have been commented out by mistake.
 
 ## Install
