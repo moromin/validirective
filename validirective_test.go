@@ -3,9 +3,8 @@ package validirective_test
 import (
 	"testing"
 
-	"validirective"
-
 	"github.com/gostaticanalysis/testutil"
+	"github.com/moromin/validirective"
 	"golang.org/x/tools/go/analysis/analysistest"
 )
 
