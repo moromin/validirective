@@ -1,6 +1,6 @@
-module validirective
+module github.com/moromin/validirective
 
-go 1.17
+go 1.18
 
 require (
 	github.com/gostaticanalysis/testutil v0.4.0 // indirect

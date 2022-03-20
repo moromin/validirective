@@ -1,8 +1,7 @@
 package main
 
 import (
-	"validirective"
-
+	"github.com/moromin/validirective"
 	"golang.org/x/tools/go/analysis/unitchecker"
 )
 
